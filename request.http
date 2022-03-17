@@ -1,0 +1,29 @@
+@base_url=http://localhost:3000
+
+### Create user
+POST {{base_url}}/users/signup
+Content-Type: application/json
+
+{
+    "email":"vivekpandey2710@gmail.com",
+    "username":"vivek",
+    "password":"vivek@123"
+}
+
+### Login user
+Post {{base_url}}/users/signin
+Content-Type: application/json
+
+{
+    "email" : "vivekpandey2710@gmail.com",
+    "password": "vivek@123"
+}
+
+### Transfer amount
+POST {{base_url}}/users/transferAmount
+Content-Type: application/json
+
+{
+    "email":"vivekpandey2710@gmail.com",
+    "amount":400
+}
