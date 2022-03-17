@@ -8,4 +8,4 @@ Project Setup:-
 
 npm install
 npm run start
-Postman Collection Link:- https://web.postman.co/workspace/My-Workspace~8e266ae5-215e-4ea3-870b-b6d822214f3f/collection/20011616-0215ba36-1838-47d6-8d45-46c9df07a51b?ctx=documentation
+Postman Collection Link:- https://documenter.postman.com/preview/20011616-0215ba36-1838-47d6-8d45-46c9df07a51b?environment=&versionTag=latest&apiName=CURRENT&version=latest&documentationLayout=classic-double-column&right-sidebar=303030&top-bar=FFFFFF&highlight=EF5B25
